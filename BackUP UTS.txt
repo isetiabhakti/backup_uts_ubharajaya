@@ -1,0 +1,124 @@
+1) Klasifikasi sistem adalah suatu bentuk kesatuan antara satu komponen dengan satu komponen lainnya, karena tujuan dari sistem tersebut memiliki akhir tujuan yang berbeda untuk setiap perkara atau kasus yang terjadi dalam setiap sistem tersebut.
+
+2) Karakteristik sistem adalah sistem yang mempunyai komponen-komponen, batas sistem, lingkungan sistem, penghubung, masukan, keluaran, pengolah dan sasaran.
+
+1. Komponen
+Elemen-elemen yang lebih kecil yang disebut sub sistem, misalkan sistem komputer terdiri dari sub sistem perangkat keras, perangkat lunak dan manusia.
+
+Elemen-elemen yang lebih besar yang disebut supra sistem. Misalkan bila perangkat keras adalah sistem yang memiliki sub sistem CPU, perangkat I/O dan memori, maka supra sistem perangkat keras adalah sistem komputer.
+
+2. Boundary (Batasan Sistem)
+
+Batas sistem merupakan daerah yang membatasi antara suatu sistem dengan sistem yang lainnya atau dengan lingkungan luarnya. Batas sistem ini memungkinkan suatu sistem dipandang sebagai suatu kesatuan. Batas suatu sistem menunjukkan ruang lingkup dari sistem tersebut.
+
+3. Environment (lingkungan Luar Sistem)
+
+Lingkungan dari sistem adalah apapun di luar batas dari sistem yang mempengaruhi operasi sistem. Lingkungan luar sistem dapat bersifat menguntungkan dan dapat juga bersifat merugikan sistem tersebut. lingkungan luar yang mengutungkan merupakan energi dari sistem dan dengan demikian harus tetap dijaga dan dipelihara. Sedang lingkungan luar yang merugikan harus ditahan dan dikendalikan, kalau tidak akan mengganggu kelangsungan hidup dari sistem.
+
+4. Interface (Penghubung Sistem)
+
+Penghubung merupakan media perantara antar sub sistem. Melalui penghubung ini memungkinkan sumber-sumber daya mengalir dari satu subsistem ke subsistem lainnya. Output dari satu sub sistem akan menjadi input untuk subsistem yang lainnya dengan melalui penghubung. Dengan penghubung satu subsistem dapat berinteraksi dengan sub sistem yang lainnya membentuk satu kesatuan.
+
+5. Input (Masukan)
+
+Masukan adalah energi yang dimasukkan ke dalam sistem. Masukan dapat berupa maintenance input dan sinyal input. Maintenance input adalah energi yang dimasukkan supaya sistem tersebut dapat beroperasi. Sinyal input adalah energi yang diproses untuk didapatkan keluaran.
+
+6. Output (Keluaran)
+
+Keluaran adalah hasil dari energi yang diolah dan diklasifikasikan menjadi keluaran yang berguna dan sisa pembuangan. Keluaran dapat merupakan masukan untuk subsistem yang lain atau kepada supra sistem.
+
+7. Proses (Pengolahan Sistem)
+
+Suatu sistem dapat mempunyai suatu bagian pengolah atau sistem itu sendiri sebagai pengolahnya. Pengolah yang akan merubah masukan menjadi keluaran. Suatu sistem produksi akan mengolah masukan berupa bahan baku dan bahan-bahan yang lain menjadi keluaran berupa barang jadi.
+
+8. Objective and Goal (Sasaran dan Tujuan Sistem)
+
+Suatu sistem pasti mempunyai tujuan atau sasaran. Kalau suatu sistem tidak mempunyai sasaran, maka operasi sistem tidak akan ada gunanya. Sasaran dari sistem sangat menentukan sekali masukan yang dibutuhkan sistem dan keluaran yang akan dihasilkan sistem. Suatu sistem dikatakan berhasil bila mengenai sasaran atau tujuannya.
+
+
+
+
+3) Sistem informasi terdiri dari komponen-komponen yang disebut blok bangunan (building blok), yang terdiri dari komponen input, komponen model, komponen output, komponen teknologi, komponen hardware, komponen software, komponen basis data, dan komponen kontrol. Semua komponen tersebut saling berinteraksi satu dengan yang lain membentuk suatu kesatuan untuk mencapai sasaran.
+
+
+1. Komponen input
+Input mewakili data yang masuk kedalam sistem informasi. Input disini termasuk metode dan media untuk menangkap data yang akan dimasukkan, yang dapat berupa dokumendokumen dasar.
+
+
+
+2. Komponen model
+Komponen ini terdiri dari kombinasi prosedur, logika, dan model matematik yang akan memanipulasi data input dan data yang tersimpan di basis data dengan cara yag sudah ditentukan untuk menghasilkan keluaran yang diinginkan.
+
+
+
+3. Komponen output
+Hasil dari sistem informasi adalah keluaran yang merupakan informasi yang berkualitas dan dokumentasi yang berguna untuk semua pemakai sistem.
+
+
+
+4. Komponen teknologi
+Teknologi merupakan gtool boxh dalam sistem informasi, Teknologi digunakan untuk menerima input, menjalankan model, menyimpan dan mengakses data, neghasilkan dan mengirimkan keluaran, dan membantu pengendalian dari sistem secara keseluruhan.
+
+
+
+5. Komponen hardware
+Hardware berperan penting sebagai suatu media penyimpanan vital bagi sistem informasi.Yang berfungsi sebagai tempat untuk menampung database atau lebih mudah dikatakan sebagai sumber data dan informasi untuk memperlancar dan mempermudah kerja dari sistem informasi.
+
+
+
+6. Komponen software
+Software berfungsi sebagai tempat untuk mengolah,menghitung dan memanipulasi data yang diambil dari hardware untuk menciptakan suatu informasi.
+
+
+
+7. Komponen basis data
+Basis data (database) merupakan kumpulan data yang saling berkaitan dan berhubungan satu dengan yang lain, tersimpan di pernagkat keras komputer dan menggunakan perangkat lunak untuk memanipulasinya. Data perlu disimpan dalam basis data untuk keperluan penyediaan informasi lebih lanjut. Data di dalam basis data perlu diorganisasikan sedemikian rupa supaya informasi yang dihasilkan berkualitas. Organisasi basis data yang baik juga berguna untuk efisiensi kapasitas penyimpanannya. Basis data diakses atau dimanipulasi menggunakan perangkat lunak paket yang disebut DBMS (Database Management System).
+
+
+
+8. Komponen kontrol
+Banyak hal yang dapat merusak sistem informasi, seperti bencana alam, api, te,peratur, air, debu, kecurangan-kecurangan, kegagalan-kegagalan sistem itu sendiri, ketidak efisienan, sabotase dan lain sebagainya. Beberapa pengendalian perlu dirancang dan diterapkan untuk meyakinkan bahwa halhal yang dapat merusak sistem dapat dicegah ataupun bila terlanjur
+terjadi kesalahan-kesalahan dapat langsung cepat diatasi.
+
+
+
+
+
+
+
+4) Mengapa perlu pengembangan sistem ?Karena semakin kompleksnya kegiatan organisasi, semakin rumitnya transaksi organisasi, pengaruh pertumbuhan ekonomi, persaingan global, perkembangan teknologi, batas waktu yang singkat, dan kendala-kendala sosial. Dari sisi lain, adanya masalah- masalah yang timbul dari sistem yang lama, untuk meraih kesempatan baru dalam berbagai hal, adanya instruksi dari manajemen atau adanya peraturan / regulasi pemerintah.
+
+
+
+
+
+5) *SDLC
+terbagi atas enam tahap yaitu:
+
+Perencanaan Sistem
+Pada tahapan ini dibentuk struktur kerja strategis yang luas, pandangan sistem informasi baru yang jelas akan memenuhi kebutuhan-kebutuhan pemakai informasi, proyek sistem dievaluasi dan dipisahkan berdasarkan prioritasnya. Proyek dengan prioritas tertinggi akan dipilih untuk pengembangan, sumber daya baru direncanakan untuk, dan disediakan untuk mendukung pengembangan sistem. Pada tahap ini direncanakan dari aspek teknis (sarana prasarana yang dipergunakan untuk mengembangkan sistem), aspek ekonomi (anggaran yang dibutuhkan untuk mengembangkan sistem), dan aspek sumber daya manusia (siapa yang akan mengembangkan; manajemen puncak, analis, dan programmer, dan siapa sasaran dari sistem yang dikembangkan).
+
+Analisis Sistem
+Pada tahapan ini dilakukan proses penilaian, identifikasi dan evaluasi komponen dan hubungan timbale balik yang terkait dalam pengembangan sistem, definisi masalah, tujuan, kebutuhan, prioritas dan kendala sistem, ditambah identifikasi biaya, keuntungan. Ruang lingkup analisis sistem ditentukan pada tahap ini. Profesional sistem mewawancarai calon pemakai dan bekerja dengan pemakai yang bersangkutan untuk mencari penyelesaian masalah dan menentukan kebutuhan pemakai. Selain itu analis juga akan menguji kelayakan sistem dari aspek ekonomi, teknis dan SDM sesuai dengan tujuan yang ingin dicapai oleh sistem.
+
+Perencanaan Sistem Secara Umum/Konseptual
+Tahapan ini dibentuk alternative perancangan konseptual untuk perluasan pandangan kebutuhan pemakai (berdasarkan umur, status, profesi, gender pengguna). Alternatif perancangan konseptual memungkinkan manajer dan pemakai untuk memilih rancangan terbaik yang cocok untuk kebutuhan mereka. Pada tahap ini analis sistem mulai merancang proses dengan mengidentifikasikan laporan dan output yang akan dihasilkan oleh sistem yang diusulkan. Sistem dibuat desain antarmuka (interface), hak dan wewenang pengguna, content sistem, dikonsep bagaimana sistem nantinya akan bekerja.
+
+Evaluasi dan Seleksi Sistem.
+Pada tahap ini, nilai kualitas sistem dan biaya/keuntungan dari laporan dengan proyek sistem dinilai secara hati-hati dan diuraikan dalam laporan evaluasi dan seleksi sistem. Karena akhir tahap perancangan sistem menyediakan point utama untuk keputusan investasi. Evaluasi dilaksanakan tidak hanya pada tahap ini tetapi juga dilaksanakan disetiap tahapan SDLC. Semua aspek sistem di evaluasi: teknis, ekonomi, laporan uji kelayakan, dsb.
+
+Perancangan Sistem
+Pada tahap ini menyediakan spesifikasi untuk perancangan sesuai konseptual. Semua komponen dirancang dan dijelaskan secara detil. Perencanaan output (layout) dirancang untuk semua layar, form-form tertentu dan laporan-laporan yang dicetak. Semua output ditinjau ulang dan disetujui oleh pemakai dan didokumentasikan. Akhir tahap ini laporan rancangan sistem secara detil dihasilkan. Tahap ini sistem yang msh dalam bentuk konsep diwujudkan dalam bentuk desain. Siapa pengguna dan apa hak dan wewenang pengguna. Semua kebutuhan yang sudah dikumpulkan disusun satu persatu. Semua komponen baik manajemen, analis dan programen bekerja sama mewujudkan konsep tersebut.
+
+Implementasi Sistem dan Pemeliharaan Sistem
+Tahap ini sistem siap untuk dibuat dan diinstalasi, beberapa tugas harus dikoordinasi dan dilaksanakan untuk implementasi sistem baru. Laporan implementasi yang dibuat pada tahap ini ada dua bagian, yaitu rencana implementasi dalam bentuk Gantt Chart atau program dan evaluation review technique (PERT) chart dan penjadwalan proyek serta teknik manajemen. Evaluasi dibutuhkan pada tahap ini untuk mengetahui sejauh mana keberhasilan sistem dikembangkan. Jika masih terdapat kekurangan maka akan dilakukan perbaikan sampai sistem tersebut berjalan sesuai dengan rencana. Setelah itu sistem akan diinstalasi dan dilakukan perawatan agar sistem dapat bekerja dengan optimal.
+
+
+
+
+
+
+
+
+6) Metodologi pengembangan sistem adalah suatu proses pengembangan sistem yang formal dan presisi yang mendefinisikan serangkaian aktivitas, metode, best practices dan tools yang terautomasi bagi para pengembang dan manager proyek dalam rangka mengembangkan dan merawat sebagai keseluruhan system informasi atau software.
+
